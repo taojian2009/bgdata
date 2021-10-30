@@ -23,7 +23,17 @@
 在提交给reducer前，提前对数据局部聚合。提交执行效率。
 减少IO和网络开销，提升性能。
 combiner慎用！
+在hive中，其实只需要调一个参数。
 
+
+### 分组
+
+
+### 综合案例
+
+用MapReduce做数据清洗。 
+
+后续基本都用`HiveSQL`, `SparkSQL`, 和`FlinkSQL`了
 
 
 
