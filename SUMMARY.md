@@ -1,5 +1,6 @@
 # Table of contents
 
-* [1. Linux高级与ZooKeeper](README.md)
-* [2. 大数据导论和Hadoop集群环境搭建](2.-da-shu-ju-dao-lun-he-hadoop-ji-qun-huan-jing-da-jian.md)
-* [3. HDFS分布式文件系统](3.-hdfs-fen-bu-shi-wen-jian-xi-tong.md)
+* [HDFS分布式文件系统](docs/HDFS分布式文件系统/0.HDFS分布式文件系统.md)
+    * [企业存储系统](docs/HDFS分布式文件系统/1.企业存储系统.md)
+    * [分布式存储问题](docs/HDFS分布式文件系统/2.分布式存储问题.md)
+    * [分布式文件HDFS](docs/HDFS分布式文件系统/3.分布式文件HDFS.md)
