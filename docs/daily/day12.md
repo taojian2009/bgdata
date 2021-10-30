@@ -42,6 +42,11 @@ JavaBean.
 
 [(a, 1), (a, 1)] -> [90, 80]
 
+`JobMain`
+`OrderBean`
+`OrderMapper`
+`OrderReducer`
+`OrderGroupComparator`
 
 
 #### 综合案例
