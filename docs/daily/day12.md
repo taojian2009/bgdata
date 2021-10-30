@@ -38,6 +38,8 @@ JavaBean.
 
 原始数据=>行偏移量，k1, v1 => 组内排序，对成交金额。
 
+通过Bean里面的compareTO 返回值分组。
+
 #### 综合案例
 
 用MapReduce做数据清洗。
