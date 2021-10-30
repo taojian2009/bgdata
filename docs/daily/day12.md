@@ -48,6 +48,10 @@ JavaBean.
 `OrderReducer`
 `OrderGroupComparator`
 
+`compareTO`:
+
++ 排序的时候需要调用
++ 如果没有指定分组，调用此方法
 
 #### 综合案例
 
