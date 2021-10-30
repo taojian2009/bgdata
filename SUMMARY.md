@@ -10,3 +10,6 @@
     * [分布式文件HDFS](docs/04.HDFS分布式文件系统/3.分布式文件HDFS.md)
     * [HDFS SHELL命令行操作](docs/04.HDFS分布式文件系统/4.HDFS-SHELL命令行使用.md)
 * [MapReduce分布式计算](docs/05.MapReduce计算模型/0.MapReducer计算模型介绍.md)
+
+* [Daily Notes](docs/daily/README.md)
+    * [Day 12](docs/daily/day12.md)
