@@ -40,6 +40,10 @@ JavaBean.
 
 通过Bean里面的compareTO 返回值分组。
 
+[(a, 1), (a, 1)] -> [90, 80]
+
+
+
 #### 综合案例
 
 用MapReduce做数据清洗。
