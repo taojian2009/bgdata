@@ -21,7 +21,6 @@
         "advanced-emoji@^0.2.1",
         "anchors@^0.7.1",
         "include-codeblock@^3.0.2",
-        "ace",
         "chapter-fold",
         "emphasize@^1.1.0",
         "katex@^1.1.3",
