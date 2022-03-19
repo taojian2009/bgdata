@@ -1,7 +1,7 @@
 # Table of contents
 
 * [每日笔记](docs/bigdata/README.md)
-  * [day01](docs/bigdata/Day01_项目一_大数据应用及项目介绍/Day01_项目一_大数据应用及项目介绍.md)
+  * [Day01_项目一_大数据应用及项目介绍](docs/bigdata/Day01_项目一_大数据应用及项目介绍/Day01_项目一_大数据应用及项目介绍.md)
 
 
 
