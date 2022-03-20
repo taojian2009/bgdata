@@ -2,7 +2,7 @@
 
 workdir=$1
 
-cd workdir
+cd $workdir
 
 git pull
 
