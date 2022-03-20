@@ -5,10 +5,13 @@
   * [Day02_项目一_项目环境及Hue的使用](docs/bigdata/Day02_项目一_项目环境及Hue的使用/02.随堂笔记/Day02_项目一_项目环境及Hue的使用.md)
   * [Day03_项目一_Sqoop的使用及数仓基础](docs/bigdata/Day03_项目一_Sqoop的使用及数仓基础/02.随堂笔记/Day03_项目一_Sqoop的使用及数仓基础.md)
   * [Day04_项目一_数仓分层设计及项目分层设计](docs/bigdata/Day04_项目一_数仓分层设计及项目分层设计/02.随堂笔记/Day04_项目一_数仓分层设计及项目分层设计.md)
+  * [Day05_项目一_ODS层抽取构建](ddocs/bigdata/Day05_项目一_项目分层设计及ODS层抽取构建/02.随堂笔记/Day05_项目一_ODS层抽取构建.md)
 
 
 * [Daily Notes](docs/daily/memo.md)
-    * [Day 12](docs/daily/day12.md)
+  * [Day 05](docs/daily/Day05.md)
+  * [Day 12](docs/daily/day12.md)
+ 
 
 * [历史笔记](archive/01.Linux高级/01.Linux基础.md)
   * [Zookeeper框架](archive/02.Zookeeper框架/01.Zookeeper.md)
