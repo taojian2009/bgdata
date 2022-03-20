@@ -146,6 +146,9 @@ logs
 *.epub
 *.mobi
 *.pdf
-
+讲义
+*.tar.gz
+*.jar
+*.exe
 # gitlab output directory
 public/
